@@ -21,7 +21,7 @@ A simple and clean weather web app that allows users to search any city and view
 
 ## 📸 Screenshot
 
-![Weather App UI](./gorgeous-clouds-background-with-blue-sky-design_1017-25501.avif)
+![Weather App UI]()
 
 ## 🧑‍💻 Getting Started
 
